@@ -28,6 +28,6 @@ Steps involved in deploying service on cloud on Kubernetes engine:
 13.	click on expose
 14.	target port 8080 and Service type Load balancer which will have external ip
 15.	Service created with external endpoint
-16.	Click on external endpoint, append mapping url created in controller: http://34.67.249.96/test-mydocker
+16.	Click on external endpoint, append mapping url created in controller: http://104.197.131.241/test-mydocker
 17.	Hence finally service deployed via cloud and can be accessed through endpoint ip
 
